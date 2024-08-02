@@ -27,3 +27,4 @@ python:3.8-slim
 python:3.10-alpine
 python:3.9-alpine
 python:3.8-alpine
+graphcore/pytorch-geometric-jupyter:latest
