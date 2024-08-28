@@ -31,3 +31,4 @@ graphcore/pytorch-geometric-jupyter:latest
 jupyter/base-notebook:x86_64-python-3.11
 jupyter/base-notebook:python-3.8.13
 quay.io/jupyter/scipy-notebook:2024-05-27
+gitlab/gitlab-ce:16.11.7-ce.0
