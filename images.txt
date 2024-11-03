@@ -34,3 +34,5 @@ quay.io/jupyter/scipy-notebook:2024-05-27
 gitlab/gitlab-ce:15.11.11-ce.0
 gitlab/gitlab-runner:alpine
 gitlab/gitlab-ce:17.3.6-ce.0
+gitlab/gitlab-ce:latest
+gitlab/gitlab-runner:latest
