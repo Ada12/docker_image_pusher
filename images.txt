@@ -36,3 +36,4 @@ gitlab/gitlab-runner:alpine
 gitlab/gitlab-ce:17.3.6-ce.0
 gitlab/gitlab-ce:latest
 gitlab/gitlab-runner:latest
+ollama/ollama:0.4.0
