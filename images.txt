@@ -45,3 +45,4 @@ mysql:8.4
 xixihahaliu01/qanything-linux:v1.5.1
 docker:24.0.5-dind
 mintplexlabs/anythingllm:1.7.4
+cschranz/gpu-jupyter:v1.7_cuda-12.2_ubuntu-22.04_slim
