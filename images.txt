@@ -1,1 +1,1 @@
-cschranz/gpu-jupyter:v1.7_cuda-12.2_ubuntu-22.04_slim
+--platform=linux/amd64 ubuntu:22.04
