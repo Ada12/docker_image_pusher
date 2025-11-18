@@ -1,1 +1,2 @@
---platform=linux/amd64 ubuntu:22.04
+--platform=linux/amd64 docker:29.0.1-dind
+--platform=linux/amd64 docker:29.0.1
